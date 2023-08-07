@@ -1,0 +1,160 @@
+.a{
+	height: 1050px;
+	width: 1520px;
+	background-color: whitesmoke;
+}
+
+.b{
+	height: 600px;
+	width: 1520px;
+	background-image: url('https://img.freepik.com/free-photo/young-handsome-physician-medical-robe-with-stethoscope_1303-17818.jpg?w=826&t=st=1691251695~exp=1691252295~hmac=769d8cabfc689599f182c75e1ae622b027b28f259cd9d183bbdc63ff5c61ee21');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.c{
+	height:420px;
+	width: 1200px;
+	background-color: whitesmoke;
+}
+
+.c1{
+	height: 420px;
+	width: 350px;
+	background-color: dimgrey;
+	float: left;
+	
+	position: relative;
+	bottom: 80px;
+}
+
+.c2{
+	height: 420px;
+	width: 350px;
+	background-color: grey;
+	float: left;
+	
+	position: relative;
+	bottom: 80px;
+	
+}
+
+.c3{
+	height: 420px;
+	width: 350px;
+	background-color:darkgrey;
+	float: left;
+	
+	position: relative;
+	bottom: 80px;
+}
+
+.d{
+	height:400px ;
+	width: 1520px;
+	background-color: grey;
+}
+
+
+.e{
+	height:400px ;
+	width: 760px;
+	background-color: white;
+	float: left;
+}
+
+
+.f{
+	height: 400px;
+	width: 760px;
+}
+
+
+.g{
+	 margin-top: 1px ;
+	 margin-right: 1000px;
+	 margin-bottom: 1px;
+	 margin-left: 300px;
+}
+
+.h{
+    	margin-top: 1px ;
+	 margin-right: 1000px;
+	 margin-bottom: 1px;
+	 margin-left: 300px;
+}
+
+.i{
+	height: 300px;
+	width: 1520px;
+	background-color: grey;
+}
+
+.j{
+	height: 300px;
+	width: 1520px;
+	background-color: white;
+}
+
+
+.k{
+	height: 300px;
+	width: 760px;
+	background-color: whitesmoke;
+	float: left;
+}
+
+.l{
+	height: 300px;
+	width: 760px;
+	background-color: white;
+	float: right;
+}
+
+.m{
+	height: 300px;
+	width: 740px;
+}
+
+.n{
+	text-align: center;
+}
+
+.o{
+	height: 600px;
+	width: 1520px;
+	background-color: aliceblue;
+}
+
+.q{
+	height: 600px;
+	width: 1520px;
+	background-color: lightslategrey;
+}
+
+.r{
+	height: 500px;
+	width: 1520px;
+	background-color: white;
+}
+
+.s{
+	height: 500px;
+	width: 1520px;
+	background-color:lightslategrey;
+}
+
+.t{
+	font-size: 60px;
+
+}
+.u{
+	font-size: 60px;
+
+}
+
+.v{
+	font-size: 60px;
+
+}
+
